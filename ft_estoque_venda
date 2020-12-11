@@ -1,0 +1,51 @@
+Aqui temos as informações sobre esta fato
+
+### Metadados
+
+Para criar tabelas deve ser utilizado HTML
+
+> <table border="1">
+>     <tr>
+>         <td><b>Columns</b></td>
+>         <td><b>Type</b></td>
+>         <td><b>Nullable</b></td>
+>         <td><b>Length</b></td>
+>         <td><b>Precision</b></td>
+>     </tr>
+>     <tr>
+>         <td>dat_chave</td>
+>         <td>date</td>
+>         <td>true</td>
+>         <td>13</td>
+>         <td>13</td>
+>     </tr>
+>     <tr>
+>         <td>dat_ultima_entrada</td>
+>         <td>date</td>
+>         <td>true</td>
+>         <td>13</td>
+>         <td>13</td>
+>     </tr>
+> </table>
+
+Exemplo de código
+
+> `select
+>    *
+>from
+>   valores
+>where
+>   id in (1,2,3,4,5,6,7)`
+
+
+PDFs não tem pré-visualização aqui porém tem no repositorio
+> [pdf](https://github.com/Henrique0liveira/Wiki/blob/main/TESTE.pdf)
+
+Excel e DOC só sendo baixado
+> [Excel](https://github.com/Henrique0liveira/Wiki/blob/main/test.xlsx)
+
+> [DOCx](https://github.com/Henrique0liveira/Wiki/blob/main/TESTE.docx)
+
+Boa noticia, gifs funcionam kkkkkkkkkkk
+> ![](https://github.com/Henrique0liveira/Wiki/blob/main/dogDance.gif)
+
