@@ -20,5 +20,5 @@ Os princípios do arquivo são: localização rápida, segurança, flexibilidade
 
 ## **Tabelas do Redshift**
 
-* [ft_estoque_venda](https://github.com/Henrique0liveira/Wiki/wiki/ft_estoque_venda)
+* [ft_estoque_venda](https://github.com/Henrique0liveira/Wiki/blob/main/ft_estoque_venda)
 * [ft_produtos](https://github.com/Henrique0liveira/Wiki/wiki/ft_produtos)
